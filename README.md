@@ -1,17 +1,13 @@
 # GüvercinApp
 
-GüvercinApp, kullanıcıların versiyon kontrolü sağladığı, hava durumu bilgisi ve güncel verileri sunan bir uygulamadır. Proje, Flask (sunucu tarafı) ve Tkinter (istemci tarafı) kullanarak geliştirilmiştir.
+GüvercinApp is an application that provides users with version control, weather information and current data. The project is developed using Flask (server side) and Tkinter (client side).
 
-## Özellikler
-- **Sunucu Tarafı**: Flask ile yazılmış, versiyon kontrolü ve veri yönetimi sağlar.
-- **İstemci Tarafı**: Tkinter GUI ile kullanıcı dostu arayüz.
-- **İstemci Versiyon Kontrolü**: İstemcinin sürümünün sunucuda kabul edilen sürümlerle uyumlu olup olmadığını kontrol eder.
-- **Hava Durumu Bilgileri**: Kullanıcılara güncel hava durumu bilgisi sağlar.
+## Features
+ **Server Side**
+- It has many functions. As the name suggests, it acts as a server, but the application is only suitable for LAN.
+- Manages the group feature. It determines the name of the rooms.
+- It controls the entry and exit system of the users to the rooms.
+- Creates the connection structure.
 
-## Kurulum
-
-### Gerekli Kütüphaneler
-Projenin çalışabilmesi için gerekli Python kütüphaneleri:
-
-```bash
-pip install -r requirements.txt
+ **Client Side**
+ - 
