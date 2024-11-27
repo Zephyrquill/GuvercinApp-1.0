@@ -1,6 +1,6 @@
-# GüvercinApp
+# GuvercinApp
 
-GüvercinApp is an application that provides users with version control, weather information and current data. The project is developed using Flask (server side) and Tkinter (client side).The name GüvercinApp (Pigepn+App in English) simply describes the entire purpose of the project. Since it was given by a friend who supported the project, it is not possible to change it.
+GuvercinApp is an application that provides users with version control, weather information and current data. The project is developed using Flask (server side) and Tkinter (client side).The name GüvercinApp (Pigepn+App in English) simply describes the entire purpose of the project. Since it was given by a friend who supported the project, it is not possible to change it.
 
 
 ## Features
